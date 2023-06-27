@@ -11,7 +11,7 @@ Weapon {
 		en: A Gun
 	Shotgun
 		en: Even more Gun
-        jp: ショットガン
+		jp: ショットガン
 	None
 }
 	en: Currently equipped Weapon
@@ -24,7 +24,7 @@ MoveCamera {
 }
 	en: Moves the Camera
 ToggleFlashlight {
-    bool on
+	bool on
 }
 
 Out:
