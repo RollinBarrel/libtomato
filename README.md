@@ -11,7 +11,7 @@ Weapon {
 		en: A Gun
 	Shotgun
 		en: Even more Gun
-		jp: ショットガン
+		ja: ショットガン
 	None
 }
 	en: Currently equipped Weapon
